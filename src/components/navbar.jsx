@@ -18,7 +18,7 @@ const Navbar = () => {
             <div className="max-w-7xl mx-auto">
                 <div className="flex items-center justify-between">
                     <div className="flex items-center space-x-3">
-                        <span className="text-2xl font-bold text-emerald-700 ">RealEstate</span>
+                        <span className="text-2xl font-bold text-emerald-700 ">Sakito Enterprices</span>
                     </div>
                     <div className="hidden md:flex space-x-4">
                         {navItems.map((item) => (

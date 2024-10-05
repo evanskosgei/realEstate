@@ -9,7 +9,7 @@ const Footer = () => {
                 <div className="grid grid-cols-1 gap-8 lg:grid-cols-3">
                     <div>
                         <div className="flex items-center justify-center sm:justify-start">
-                            <span className="text-3xl font-bold">Real<span className="text-emerald-400">Estate</span>.</span>
+                            <span className="text-3xl font-bold">Sakito<span className="text-emerald-400">Enterprices</span>.</span>
                         </div>
                         <p className="mt-6 max-w-md text-center leading-relaxed text-gray-400 sm:max-w-xs sm:text-left">
                             Discover your dream home with our expert real estate services. We&apos;re committed to finding the perfect property for you.
@@ -97,14 +97,14 @@ const Footer = () => {
                                 <li>
                                     <a className="flex items-center justify-center gap-1.5 sm:justify-start" href="#">
                                         <Mail className="h-5 w-5 shrink-0 text-emerald-400" />
-                                        <span className="text-gray-300">contact@realestate.com</span>
+                                        <span className="text-gray-300">contact@sakitoenterprices.com</span>
                                     </a>
                                 </li>
                                 <li className="flex items-start justify-center gap-1.5 sm:justify-start">
                                     <MapPin className="h-5 w-5 shrink-0 text-emerald-400" />
                                     <address className="not-italic text-gray-300">
-                                        123 Kenyatta Ave,<br />
-                                        Nairobi, KE 12345
+                                        123 Kenyatta St,<br />
+                                        Nakuru, KE 12345
                                     </address>
                                 </li>
                             </ul>
@@ -124,7 +124,7 @@ const Footer = () => {
                             </a>
                         </p>
                         <p className="mt-4 text-sm text-gray-500 sm:order-first sm:mt-0">
-                            &copy; {new Date().getFullYear()} RealEstate
+                            &copy; {new Date().getFullYear()} Sakito Enterprices
                         </p>
                     </div>
                 </div>
