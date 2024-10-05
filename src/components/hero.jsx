@@ -12,7 +12,9 @@ const Hero = () => {
                         <div className="flex flex-col items-center justify-between xl:flex-row">
                             <div className="mb-12 w-full max-w-xl xl:mb-0 xl:w-7/12 xl:pr-16">
                                 <h2 className="mb-6 max-w-lg font-sans text-3xl font-bold tracking-tight text-white sm:text-7xl sm:leading-none">Find Your Dream Home</h2>
-                                <p className="mb-4 max-w-xl text-base text-gray-200 md:text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt laudantium rem molestiae.</p>
+                                <p className="mb-6 max-w-xl text-base text-gray-200 md:text-lg lg:text-xl leading-relaxed">
+                                    Discover your dream home with our expert guidance. From cozy apartments to luxurious estates, we&apos;re committed to finding the perfect property that matches your lifestyle and aspirations.
+                                </p>
                                 <a href="/" aria-label="" className="inline-flex items-center font-semibold tracking-wider text-teal-400 transition-colors duration-200 hover:text-teal-300">
                                     Learn more
                                     <svg className="ml-2 inline-block w-3" fill="currentColor" viewBox="0 0 12 12">
